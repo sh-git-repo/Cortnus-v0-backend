@@ -1,4 +1,4 @@
-## Welcome, to the backend repository for Cortnus.
+## Welcome, to the API server repository for Cortnus.
 
 ### Instructions to build
 1. Please install golang from https://golang.org/
